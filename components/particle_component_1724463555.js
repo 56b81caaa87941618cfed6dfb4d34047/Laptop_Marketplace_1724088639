@@ -40,6 +40,7 @@ Summary: This is a canvas element for displaying a purple glow and a particle an
                     </g>
                 </g>
             </svg>
+            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Laptop_Marketplace_1724088639/main/images/3562e503ed49495083af20b92c23281c.jpeg" alt="Illustration" class="absolute inset-0 w-full h-full object-cover opacity-20">
         </div>
     </div>
 </template>
