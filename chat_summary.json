@@ -6,5 +6,11 @@
         "timestamp": "1724088642",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it. Updating the image to a dinosaur.",
+        "timestamp": "24082024013946",
+        "message_id": "guest24082024013945"
     }
 ]
