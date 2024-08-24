@@ -18,5 +18,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the dinosaur image to replace an existing image or be added as a new element on the page?\", \"option1\": \"Replace existing image\", \"option2\": \"Add as a new element\"}, {\"question 2\": \"Should the dinosaur image be a specific type or style (cartoon, realistic, etc.)?\", \"option1\": \"Cartoon\", \"option2\": \"Realistic\"}], \"input_token_count\": 268, \"output_token_count\": 97, \"time_taken\": \"0:00:02.818305\"}",
         "timestamp": "24082024013949",
         "message_id": "guest24082024013945"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add image carousel for showing multiple laptop models\", \"checked\": false}, {\"feature\": \"Incorporate a feature to allow users to zoom in on images\", \"checked\": true}, {\"feature\": \"Implement image comparison feature for comparing different laptop models\", \"checked\": false}, {\"feature\": \"Provide an option for users to upload their own laptop images in reviews\", \"checked\": true}, {\"feature\": \"Enable image filters to view laptops in different environments\", \"checked\": false}], \"input_token_count\": 222, \"output_token_count\": 113, \"time_taken\": \"0:00:03.192148\"}",
+        "timestamp": "24082024013950",
+        "message_id": "guest24082024013945"
     }
 ]
