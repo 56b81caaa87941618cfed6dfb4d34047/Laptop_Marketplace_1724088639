@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the dinosaur image to replace an existing image or be added as a new element on the page?\", \"option1\": \"Replace existing image\", \"option2\": \"Add as a new element\"}, {\"question 2\": \"Should the dinosaur image be a specific type or style (cartoon, realistic, etc.)?\", \"option1\": \"Cartoon\", \"option2\": \"Realistic\"}], \"input_token_count\": 268, \"output_token_count\": 97, \"time_taken\": \"0:00:02.818305\"}",
+        "message_id": "guest24082024013945",
+        "timestamp": "24082024013949",
+        "component_file_name": "particle_component_1724463555",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it. Updating the image to a dinosaur.",
         "message_id": "guest24082024013945",
